@@ -1,6 +1,6 @@
 # Discord-chat-bot
 
-AnubisID bot adalah project kecil untuk membuat bot discord auto balas chat.
-kalian hanya memerlukan token bot discord nya tanpa harus banyak mengubah bagian code.
-apabila anda ingin mencoba nya, kalian bisa menghubungi saya di discord : inisial A#6202
-ini free tidak berbaya.!
+This BOT functions to auto reply to chats either privately or on the server
+how to use it is also easy, you only need a discord bot token which you can get https://discord.com/developers/applications
+
+if you don't understand it you can contact me : inisial A#6202
